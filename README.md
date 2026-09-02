@@ -6,7 +6,7 @@ Schematic design and layout of a two-stage Miller-compensated CMOS operational a
 
 ## Contents
 
-- [`254012419_EE517_Exp5.pdf`](./254012419_EE517_Exp5.pdf) — **Experiment 5**: schematic-level design and analysis of the two-stage op-amp (architecture, gain, Miller compensation, transistor sizing, schematic simulation results).
+- [`254102419_EE517_Exp5.pdf`](./254102419_EE517_Exp5.pdf) — **Experiment 5**: schematic-level design and analysis of the two-stage op-amp (architecture, gain, Miller compensation, transistor sizing, schematic simulation results).
 - [`254102419_EE517_Exp6.pdf`](./254102419_EE517_Exp6.pdf) — **Experiment 6**: layout design, DRC/LVS verification, parasitic extraction, and pre- vs. post-layout simulation comparison, for both the null-resistor and no-null-resistor versions.
 
 ## Design Specifications (target)
